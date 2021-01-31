@@ -1,0 +1,101 @@
+title,authors,year,publisher,doi,date,bookTitle,editor
+Title-D-0,Jason Adair,2006,ACM,202/1031,8/5/2021,book-a,Mina Mouse
+Title-F-1,Jason Adair,2016,Springer,741/1240,14/6/2021,book-g,Mina Mouse
+Title-B-2,Kevin Bacon,2008,Springer,884/1342,25/9/2021,book-f,Ariel
+Title-H-3,Saemi Haraldsson,2005,ACM,1029/600,27/6/2021,book-g,Ariel
+Title-F-4,Saemi Haraldsson,2002,IEEE,1011/1591,2/11/2021,book-a,Elsa
+Title-G-5,Kevin Bacon,2020,Springer,695/1883,4/8/2021,book-f,Donald Duck
+Title-H-6,Kevin Bacon,2012,Springer,808/1852,26/4/2021,book-h,Mina Mouse
+Title-E-7,Heidi Brynjolfsdottir,2016,ACM,1297/445,11/11/2021,book-g,Guffy
+Title-H-8,Saemi Haraldsson,1999,Springer,1509/1651,3/10/2021,book-k,Donald Duck
+Title-E-9,Heidi Brynjolfsdottir,2002,ACM,1029/434,3/9/2021,book-d,Elsa
+Title-H-10,Heidi Brynjolfsdottir,2001,ACM,1268/1734,15/1/2021,book-j,Elsa
+Title-F-11,Heidi Brynjolfsdottir,2015,IEEE,1015/183,13/2/2021,book-a,Elsa
+Title-A-12,Kevin Bacon,2004,ACM,474/1684,17/9/2021,book-d,Elsa
+Title-G-13,Kevin Bacon,2011,Springer,1164/1858,26/8/2021,book-k,Ariel
+Title-H-14,Kevin Bacon,2009,Springer,1619/631,6/4/2021,book-k,Donald Duck
+Title-B-15,Jason Adair,2008,ACM,1672/1510,8/4/2021,book-d,Mina Mouse
+Title-C-16,Jason Adair,2010,Elsevier,88/23,27/7/2021,book-a,Elsa
+Title-G-17,Saemi Haraldsson,2002,ACM,1230/188,17/3/2021,book-g,Ariel
+Title-G-18,Heidi Brynjolfsdottir,2017,ACM,1237/1428,2/9/2021,book-f,Mina Mouse
+Title-D-19,Saemi Haraldsson,2020,Springer,1244/1272,2/7/2021,book-s,Guffy
+Title-D-20,Saemi Haraldsson,2004,ACM,1480/693,19/10/2021,book-h,Ariel
+Title-E-21,Heidi Brynjolfsdottir,2003,ACM,270/1047,1/3/2021,book-a,Micky Mouse
+Title-H-22,Kevin Bacon,2014,ACM,1133/1335,4/5/2021,book-j,Donald Duck
+Title-A-23,Heidi Brynjolfsdottir,2001,Elsevier,661/1633,24/7/2021,book-g,Guffy
+Title-F-24,Kevin Bacon,2000,IEEE,78/504,15/10/2021,book-l,Mina Mouse
+Title-D-25,Heidi Brynjolfsdottir,2000,Springer,53/953,9/1/2021,book-j,Elsa
+Title-D-26,Heidi Brynjolfsdottir,2009,IEEE,332/765,18/11/2021,book-s,Elsa
+Title-D-27,Jason Adair,1999,Springer,74/516,24/6/2021,book-a,Guffy
+Title-B-28,Kevin Bacon,2004,ACM,929/1911,10/9/2021,book-k,Donald Duck
+Title-A-29,Saemi Haraldsson,2015,Springer,1760/1827,13/3/2021,book-g,Donald Duck
+Title-E-30,Heidi Brynjolfsdottir,2005,ACM,1410/101,21/10/2021,book-h,Guffy
+Title-D-31,Saemi Haraldsson,2016,IEEE,1146/1097,4/11/2021,book-f,Donald Duck
+Title-H-32,Kevin Bacon,2000,Elsevier,582/847,4/4/2021,book-g,Donald Duck
+Title-E-33,Heidi Brynjolfsdottir,2004,ACM,1298/1689,18/4/2021,book-h,Mina Mouse
+Title-H-34,Heidi Brynjolfsdottir,2012,ACM,482/735,7/4/2021,book-s,Donald Duck
+Title-G-35,Heidi Brynjolfsdottir,2008,Elsevier,1889/889,12/7/2021,book-s,Ariel
+Title-E-36,Kevin Bacon,2019,ACM,1316/516,13/2/2021,book-h,Guffy
+Title-H-37,Jason Adair,1999,Elsevier,712/1440,23/7/2021,book-l,Micky Mouse
+Title-F-38,Jason Adair,2003,IEEE,723/904,4/8/2021,book-a,Guffy
+Title-D-39,Kevin Bacon,2014,ACM,1968/1488,12/11/2021,book-d,Donald Duck
+Title-F-40,Kevin Bacon,2006,Elsevier,1456/1903,9/5/2021,book-h,Elsa
+Title-A-41,Heidi Brynjolfsdottir,2004,Elsevier,1679/1955,24/1/2021,book-s,Elsa
+Title-A-42,Saemi Haraldsson,2006,Elsevier,1759/98,23/10/2021,book-h,Micky Mouse
+Title-B-43,Heidi Brynjolfsdottir,2010,Springer,1053/1616,21/6/2021,book-a,Guffy
+Title-H-44,Jason Adair,2010,Springer,1963/437,26/9/2021,book-j,Mina Mouse
+Title-F-45,Jason Adair,2017,Springer,473/1747,8/11/2021,book-f,Mina Mouse
+Title-E-46,Jason Adair,2014,ACM,303/501,18/5/2021,book-h,Guffy
+Title-C-47,Kevin Bacon,2014,Elsevier,1878/1418,7/2/2021,book-h,Mina Mouse
+Title-E-48,Saemi Haraldsson,1999,Elsevier,1717/746,29/8/2021,book-j,Elsa
+Title-E-49,Heidi Brynjolfsdottir,1999,Springer,1642/797,8/5/2021,book-h,Ariel
+Title-D-50,Heidi Brynjolfsdottir,2016,IEEE,516/849,4/8/2021,book-g,Guffy
+Title-G-51,Jason Adair,2008,Springer,988/1027,7/1/2021,book-s,Elsa
+Title-C-52,Kevin Bacon,2005,ACM,1880/1715,19/1/2021,book-h,Micky Mouse
+Title-F-53,Jason Adair,2007,ACM,1403/371,16/2/2021,book-f,Ariel
+Title-A-54,Jason Adair,2001,ACM,697/929,9/4/2021,book-h,Elsa
+Title-D-55,Saemi Haraldsson,2008,IEEE,1597/1774,3/7/2021,book-s,Elsa
+Title-B-56,Jason Adair,2008,ACM,1810/230,8/3/2021,book-l,Guffy
+Title-C-57,Jason Adair,2007,Elsevier,284/632,24/2/2021,book-a,Mina Mouse
+Title-F-58,Saemi Haraldsson,2002,ACM,1438/1638,6/8/2021,book-j,Ariel
+Title-G-59,Jason Adair,2013,ACM,311/1008,9/5/2021,book-s,Mina Mouse
+Title-F-60,Jason Adair,2009,IEEE,814/723,29/8/2021,book-j,Guffy
+Title-F-61,Saemi Haraldsson,2008,ACM,1407/1775,11/6/2021,book-s,Micky Mouse
+Title-E-62,Jason Adair,2007,IEEE,1142/1000,26/6/2021,book-g,Guffy
+Title-H-63,Saemi Haraldsson,2005,ACM,1942/1436,25/6/2021,book-s,Guffy
+Title-A-64,Jason Adair,2003,Elsevier,869/1661,17/2/2021,book-g,Guffy
+Title-F-65,Jason Adair,2009,Springer,1067/1119,16/1/2021,book-l,Donald Duck
+Title-F-66,Saemi Haraldsson,2015,Springer,1015/900,21/7/2021,book-g,Guffy
+Title-H-67,Saemi Haraldsson,2000,Elsevier,486/167,10/6/2021,book-f,Mina Mouse
+Title-G-68,Heidi Brynjolfsdottir,2019,Elsevier,424/965,4/3/2021,book-k,Elsa
+Title-A-69,Heidi Brynjolfsdottir,2016,ACM,1823/1224,13/10/2021,book-f,Elsa
+Title-H-70,Saemi Haraldsson,2008,IEEE,1441/313,29/2/2021,book-g,Elsa
+Title-F-71,Heidi Brynjolfsdottir,2013,Springer,1894/1573,22/8/2021,book-f,Donald Duck
+Title-C-72,Jason Adair,2004,Springer,1938/1761,7/3/2021,book-j,Elsa
+Title-E-73,Kevin Bacon,2005,IEEE,889/829,18/5/2021,book-k,Mina Mouse
+Title-A-74,Jason Adair,2013,ACM,1263/1217,23/2/2021,book-f,Elsa
+Title-D-75,Heidi Brynjolfsdottir,2005,Springer,873/501,19/8/2021,book-g,Donald Duck
+Title-E-76,Kevin Bacon,2017,IEEE,197/1583,29/8/2021,book-j,Guffy
+Title-C-77,Jason Adair,2006,IEEE,883/1239,1/3/2021,book-j,Guffy
+Title-A-78,Kevin Bacon,2004,IEEE,1159/527,23/8/2021,book-j,Elsa
+Title-B-79,Jason Adair,2017,Springer,1336/1136,2/10/2021,book-k,Elsa
+Title-F-80,Saemi Haraldsson,2010,Elsevier,1248/221,13/4/2021,book-d,Mina Mouse
+Title-G-81,Kevin Bacon,2013,Elsevier,538/1521,27/8/2021,book-h,Elsa
+Title-A-82,Saemi Haraldsson,2010,ACM,1949/113,22/11/2021,book-l,Ariel
+Title-G-83,Jason Adair,2008,IEEE,416/485,6/3/2021,book-l,Ariel
+Title-A-84,Jason Adair,2000,IEEE,1413/1824,11/3/2021,book-h,Mina Mouse
+Title-C-85,Saemi Haraldsson,2007,Elsevier,113/37,23/2/2021,book-s,Elsa
+Title-A-86,Heidi Brynjolfsdottir,1999,ACM,605/1963,6/5/2021,book-j,Micky Mouse
+Title-F-87,Kevin Bacon,2001,IEEE,649/586,22/6/2021,book-s,Ariel
+Title-G-88,Jason Adair,2000,Elsevier,229/1461,19/11/2021,book-k,Donald Duck
+Title-D-89,Heidi Brynjolfsdottir,2006,Elsevier,1549/631,14/10/2021,book-l,Mina Mouse
+Title-H-90,Kevin Bacon,2016,Springer,554/1524,19/10/2021,book-l,Elsa
+Title-H-91,Jason Adair,2003,ACM,782/63,12/4/2021,book-h,Guffy
+Title-B-92,Saemi Haraldsson,2010,Springer,547/561,12/6/2021,book-h,Micky Mouse
+Title-D-93,Kevin Bacon,2002,Elsevier,593/1504,14/6/2021,book-l,Mina Mouse
+Title-B-94,Heidi Brynjolfsdottir,2013,IEEE,1285/1098,10/4/2021,book-h,Donald Duck
+Title-A-95,Saemi Haraldsson,2017,IEEE,1011/141,3/7/2021,book-f,Guffy
+Title-B-96,Kevin Bacon,1999,Elsevier,1083/615,28/10/2021,book-k,Micky Mouse
+Title-F-97,Kevin Bacon,2000,IEEE,12/1513,7/7/2021,book-d,Guffy
+Title-G-98,Jason Adair,2005,Elsevier,1841/786,4/1/2021,book-h,Mina Mouse
+Title-H-99,Jason Adair,2005,Elsevier,1795/606,29/10/2021,book-g,Ariel
