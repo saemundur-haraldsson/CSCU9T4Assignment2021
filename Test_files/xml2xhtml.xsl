@@ -2,27 +2,40 @@
 <xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <html>
 	<body style="font-family:Arial;font-size:12pt;background-color:#EEEEEE">
-		<h2>Survey Summary</h2>
-  
-		<ol>
-		  <li>When did you start playing Pokemon Go?</li>
+		<h1>Bibliography summary</h1>
+		<h2>Journal articles</h2>
+		<ul>
+		  <li>Number of journal articles</li>
 			<dd></dd>
 		  
-		  <li>What type of phone/OS do you play on?</li>
+		  <li>Most frequent journal</li>
 			<dd></dd>
 		  
-		  <li>What team are you on?</li>
+		  <li>Most frequent publisher</li>
 			<dd></dd>
-		 
-		 <li>What level are you?</li>
+		</ul>
+		<h2>Conference proceedings</h2>
+		<ul>
+		  <li>Number of conference proceedings</li>
 			<dd></dd>
 		  
-		  <li>How many Pokemon have you caught?</li>
+		  <li>Most frequent venue</li>
 			<dd></dd>
 		  
-		  <li>What colour is your jogger medal?</li>
+		  <li>Most frequent location</li>
 			<dd></dd>
-		</ol>
+		</ul>
+		<h2>Book chapters</h2>
+		<ul>
+		  <li>Number of book chapters</li>
+			<dd></dd>
+		  
+		  <li>Most frequent book</li>
+			<dd></dd>
+		  
+		  <li>Most frequent publisher</li>
+			<dd></dd>
+		</ul>
 	</body>
   </html>
 </xsl:stylesheet>
