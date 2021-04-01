@@ -1,0 +1,301 @@
+title,authors,year,publisher,doi,date,journal,volume,issue,venue,location,bookTitle,editor
+Title-B-0,Jason Adair,2015,ACM,533/49,6/2/2021,journal-s,9,8,,,,
+Title-A-0,Heidi Brynjolfsdottir,1999,ACM,765/1773,23/3/2021,,,,Conference-3,Location-U,,
+Title-D-0,Jason Adair,2006,ACM,202/1031,8/5/2021,,,,,,book-a,Mina Mouse
+Title-G-1,Kevin Bacon,2007,IEEE,580/491,13/2/2021,journal-x,5,5,,,,
+Title-C-1,Kevin Bacon,2019,Springer,611/1124,23/11/2021,,,,Conference-2,Location-R,,
+Title-F-1,Jason Adair,2016,Springer,741/1240,14/6/2021,,,,,,book-g,Mina Mouse
+Title-F-2,Saemi Haraldsson,2004,Springer,1045/875,27/10/2021,journal-z,5,1,,,,
+Title-A-2,Heidi Brynjolfsdottir,2009,ACM,71/902,19/10/2021,,,,Conference-3,Location-Y,,
+Title-B-2,Kevin Bacon,2008,Springer,884/1342,25/9/2021,,,,,,book-f,Ariel
+Title-D-3,Jason Adair,2008,Springer,173/1568,4/9/2021,journal-s,2,5,,,,
+Title-H-3,Kevin Bacon,2019,,1163/92,21/4/2021,,,,Conference-3,Location-I,,
+Title-H-3,Saemi Haraldsson,2005,ACM,1029/600,27/6/2021,,,,,,book-g,Ariel
+Title-G-4,Heidi Brynjolfsdottir,2018,ACM,628/863,11/8/2021,journal-q,7,1,,,,
+Title-D-4,Saemi Haraldsson,2018,Springer,1453/922,5/11/2021,,,,Conference-7,Location-I,,
+Title-F-4,Saemi Haraldsson,2002,IEEE,1011/1591,2/11/2021,,,,,,book-a,Elsa
+Title-F-5,Saemi Haraldsson,2001,IEEE,291/626,23/10/2021,journal-p,6,6,,,,
+Title-A-5,Kevin Bacon,2012,Springer,1231/565,3/5/2021,,,,Conference-8,Location-P,,
+Title-G-5,Kevin Bacon,2020,Springer,695/1883,4/8/2021,,,,,,book-f,Donald Duck
+Title-A-6,Kevin Bacon,2016,Springer,888/1206,7/7/2021,journal-z,5,7,,,,
+Title-E-6,Jason Adair,2005,ACM,914/1414,19/4/2021,,,,Conference-4,Location-O,,
+Title-H-6,Kevin Bacon,2012,Springer,808/1852,26/4/2021,,,,,,book-h,Mina Mouse
+Title-A-7,Jason Adair,2014,IEEE,1745/1497,13/5/2021,journal-t,3,1,,,,
+Title-H-7,Jason Adair,2005,Elsevier,176/1224,23/1/2021,,,,Conference-4,Location-I,,
+Title-E-7,Heidi Brynjolfsdottir,2016,ACM,1297/445,11/11/2021,,,,,,book-g,Guffy
+Title-E-8,Jason Adair,2009,ACM,,9/2/2021,journal-x,5,2,,,,
+Title-H-8,Kevin Bacon,2019,Elsevier,1212/1395,13/10/2021,,,,Conference-8,Location-Y,,
+Title-H-8,Saemi Haraldsson,1999,Springer,1509/1651,3/10/2021,,,,,,book-k,Donald Duck
+Title-G-9,Saemi Haraldsson,2016,Elsevier,1677/1735,12/1/2021,journal-y,4,7,,,,
+Title-C-9,Jason Adair,2005,Springer,282/965,1/8/2021,,,,Conference-2,Location-P,,
+Title-E-9,Heidi Brynjolfsdottir,2002,ACM,1029/434,3/9/2021,,,,,,book-d,Elsa
+Title-H-10,Jason Adair,1999,ACM,1705/733,29/6/2021,journal-x,9,5,,,,
+Title-H-10,Kevin Bacon,2019,Springer,332/224,19/8/2021,,,,Conference-1,Location-O,,
+Title-H-10,Heidi Brynjolfsdottir,2001,ACM,1268/1734,15/1/2021,,,,,,book-j,Elsa
+Title-E-11,Heidi Brynjolfsdottir,2012,IEEE,1163/629,13/7/2021,journal-s,4,6,,,,
+Title-F-11,Kevin Bacon,2005,ACM,1353/1083,13/4/2021,,,,Conference-5,Location-Y,,
+Title-F-11,Heidi Brynjolfsdottir,2015,IEEE,1015/183,13/2/2021,,,,,,book-a,Elsa
+Title-E-12,Jason Adair,2000,Springer,67/1418,12/2/2021,journal-q,2,5,,,,
+Title-H-12,Saemi Haraldsson,2011,ACM,825/1893,24/7/2021,,,,Conference-4,Location-T,,
+Title-A-12,Kevin Bacon,2004,ACM,474/1684,17/9/2021,,,,,,book-d,Elsa
+Title-D-13,Heidi Brynjolfsdottir,2020,ACM,969/1735,14/8/2021,journal-z,3,3,,,,
+Title-B-13,Jason Adair,2015,Elsevier,597/1256,29/9/2021,,,,Conference-4,Location-Y,,
+Title-G-13,Kevin Bacon,2011,Springer,1164/1858,26/8/2021,,,,,,book-k,Ariel
+Title-C-14,Kevin Bacon,2011,IEEE,1267/1182,2/5/2021,journal-t,6,2,,,,
+Title-G-14,Saemi Haraldsson,2006,Elsevier,301/681,11/6/2021,,,,Conference-8,Location-Y,,
+Title-H-14,Kevin Bacon,2009,Springer,1619/631,6/4/2021,,,,,,book-k,Donald Duck
+Title-G-15,Kevin Bacon,2020,Elsevier,1241/1087,6/6/2021,journal-s,4,1,,,,
+Title-C-15,Saemi Haraldsson,2009,IEEE,1226/1154,28/1/2021,,,,Conference-4,Location-I,,
+Title-B-15,Jason Adair,2008,ACM,1672/1510,8/4/2021,,,,,,book-d,Mina Mouse
+Title-H-16,Heidi Brynjolfsdottir,2004,IEEE,1020/96,12/8/2021,journal-y,7,7,,,,
+Title-E-16,Saemi Haraldsson,2006,Springer,520/257,5/4/2021,,,,Conference-8,Location-U,,
+Title-C-16,Jason Adair,2010,Elsevier,88/23,27/7/2021,,,,,,book-a,Elsa
+Title-C-17,Jason Adair,2012,ACM,1926/268,14/11/2021,journal-s,8,7,,,,
+Title-H-17,Saemi Haraldsson,2016,Elsevier,120/299,10/6/2021,,,,Conference-7,Location-P,,
+Title-G-17,Saemi Haraldsson,2002,ACM,1230/188,17/3/2021,,,,,,book-g,Ariel
+Title-F-18,Kevin Bacon,2001,ACM,1866/1913,17/4/2021,journal-s,6,8,,,,
+Title-A-18,Kevin Bacon,2006,Springer,572/1553,23/2/2021,,,,Conference-6,Location-O,,
+Title-G-18,Heidi Brynjolfsdottir,2017,ACM,1237/1428,2/9/2021,,,,,,book-f,Mina Mouse
+Title-A-19,Heidi Brynjolfsdottir,2000,IEEE,566/238,5/6/2021,journal-s,2,9,,,,
+Title-E-19,Saemi Haraldsson,2012,IEEE,475/524,23/10/2021,,,,Conference-7,Location-Y,,
+Title-D-19,Saemi Haraldsson,2020,Springer,1244/1272,2/7/2021,,,,,,book-s,Guffy
+Title-H-20,Jason Adair,2004,ACM,1689/1303,6/10/2021,journal-s,1,2,,,,
+Title-A-20,Kevin Bacon,2018,ACM,1322/539,29/3/2021,,,,Conference-2,Location-I,,
+Title-D-20,Saemi Haraldsson,2004,ACM,1480/693,19/10/2021,,,,,,book-h,Ariel
+Title-G-21,Saemi Haraldsson,2016,Springer,336/1717,15/4/2021,journal-s,4,3,,,,
+Title-C-21,Jason Adair,2014,ACM,509/1128,15/8/2021,,,,Conference-2,Location-I,,
+Title-E-21,Heidi Brynjolfsdottir,2003,ACM,270/1047,1/3/2021,,,,,,book-a,Micky Mouse
+Title-H-22,Saemi Haraldsson,2006,Springer,1935/1932,22/9/2021,journal-t,2,4,,,,
+Title-A-22,Jason Adair,2005,Springer,1841/748,15/11/2021,,,,Conference-7,Location-U,,
+Title-H-22,Kevin Bacon,2014,ACM,1133/1335,4/5/2021,,,,,,book-j,Donald Duck
+Title-C-23,Heidi Brynjolfsdottir,1999,IEEE,720/600,1/9/2021,journal-t,3,1,,,,
+Title-F-23,Saemi Haraldsson,2002,ACM,319/1720,23/3/2021,,,,Conference-7,Location-P,,
+Title-A-23,Heidi Brynjolfsdottir,2001,Elsevier,661/1633,24/7/2021,,,,,,book-g,Guffy
+Title-B-24,Kevin Bacon,2001,Springer,670/896,11/11/2021,journal-x,4,7,,,,
+Title-G-24,Jason Adair,2013,ACM,588/27,14/5/2021,,,,Conference-2,Location-I,,
+Title-F-24,Kevin Bacon,2000,IEEE,78/504,15/10/2021,,,,,,book-l,Mina Mouse
+Title-A-25,Saemi Haraldsson,2005,ACM,1706/1126,8/1/2021,journal-s,7,8,,,,
+Title-H-25,Kevin Bacon,2011,IEEE,1838/228,23/1/2021,,,,Conference-4,Location-P,,
+Title-D-25,Heidi Brynjolfsdottir,2000,Springer,53/953,9/1/2021,,,,,,book-j,Elsa
+Title-G-26,Kevin Bacon,2003,IEEE,1381/1967,23/2/2021,journal-z,5,4,,,,
+Title-H-26,Kevin Bacon,2011,Elsevier,192/1993,27/9/2021,,,,Conference-5,Location-I,,
+Title-D-26,Heidi Brynjolfsdottir,2009,IEEE,332/765,18/11/2021,,,,,,book-s,Elsa
+Title-H-27,Heidi Brynjolfsdottir,2003,IEEE,352/1994,20/3/2021,journal-t,5,2,,,,
+Title-F-27,Kevin Bacon,2009,ACM,637/833,18/6/2021,,,,Conference-7,Location-U,,
+Title-D-27,Jason Adair,1999,Springer,74/516,24/6/2021,,,,,,book-a,Guffy
+Title-B-28,Saemi Haraldsson,2014,IEEE,727/505,17/8/2021,journal-x,6,1,,,,
+Title-C-28,Jason Adair,2015,Elsevier,1015/1391,22/3/2021,,,,Conference-8,Location-T,,
+Title-B-28,Kevin Bacon,2004,ACM,929/1911,10/9/2021,,,,,,book-k,Donald Duck
+Title-B-29,Heidi Brynjolfsdottir,2018,ACM,1917/1767,26/6/2021,journal-p,9,4,,,,
+Title-H-29,Heidi Brynjolfsdottir,2012,Elsevier,1583/1873,17/4/2021,,,,Conference-2,Location-P,,
+Title-A-29,Saemi Haraldsson,2015,Springer,1760/1827,13/3/2021,,,,,,book-g,Donald Duck
+Title-B-30,Jason Adair,2007,ACM,1908/1411,8/8/2021,journal-s,3,7,,,,
+Title-F-30,Kevin Bacon,2017,IEEE,508/81,19/8/2021,,,,Conference-2,Location-P,,
+Title-E-30,Heidi Brynjolfsdottir,2005,ACM,1410/101,21/10/2021,,,,,,book-h,Guffy
+Title-C-31,Heidi Brynjolfsdottir,2004,Elsevier,1941/1344,18/8/2021,journal-t,7,8,,,,
+Title-H-31,Saemi Haraldsson,2018,Elsevier,1541/13,18/6/2021,,,,Conference-6,Location-U,,
+Title-D-31,Saemi Haraldsson,2016,IEEE,1146/1097,4/11/2021,,,,,,book-f,Donald Duck
+Title-B-32,Saemi Haraldsson,2007,Elsevier,1496/184,22/10/2021,journal-t,1,6,,,,
+Title-E-32,Kevin Bacon,2013,Elsevier,1989/224,28/4/2021,,,,Conference-1,Location-R,,
+Title-H-32,Kevin Bacon,2000,Elsevier,582/847,4/4/2021,,,,,,book-g,Donald Duck
+Title-A-33,Kevin Bacon,2009,Springer,305/67,6/9/2021,journal-y,1,1,,,,
+Title-F-33,Saemi Haraldsson,2019,Elsevier,415/1989,13/6/2021,,,,Conference-4,Location-U,,
+Title-E-33,Heidi Brynjolfsdottir,2004,ACM,1298/1689,18/4/2021,,,,,,book-h,Mina Mouse
+Title-D-34,Jason Adair,2007,Springer,151/1736,24/7/2021,journal-t,3,9,,,,
+Title-H-34,Saemi Haraldsson,2012,IEEE,1299/676,7/11/2021,,,,Conference-1,Location-O,,
+Title-H-34,Heidi Brynjolfsdottir,2012,ACM,482/735,,,,,,,book-s,Donald Duck
+Title-H-35,Saemi Haraldsson,2020,ACM,1982/1433,9/4/2021,journal-s,3,7,,,,
+Title-D-35,Kevin Bacon,2012,IEEE,1062/1477,20/11/2021,,,,Conference-3,Location-Y,,
+Title-G-35,Heidi Brynjolfsdottir,2008,Elsevier,1889/889,12/7/2021,,,,,,book-s,Ariel
+Title-G-36,Heidi Brynjolfsdottir,2019,IEEE,732/735,8/3/2021,journal-t,8,1,,,,
+Title-G-36,Heidi Brynjolfsdottir,2014,ACM,65/1568,5/10/2021,,,,Conference-3,Location-Y,,
+Title-E-36,Kevin Bacon,2019,ACM,1316/516,13/2/2021,,,,,,book-h,Guffy
+Title-H-37,Heidi Brynjolfsdottir,2001,IEEE,787/1348,11/10/2021,journal-p,5,4,,,,
+Title-F-37,Saemi Haraldsson,2008,ACM,1733/740,23/11/2021,,,,Conference-8,Location-T,,
+Title-H-37,Jason Adair,1999,Elsevier,712/1440,23/7/2021,,,,,,book-l,Micky Mouse
+Title-H-38,Jason Adair,2020,IEEE,1734/1869,13/10/2021,journal-z,4,8,,,,
+Title-H-38,Jason Adair,2018,ACM,391/1807,22/9/2021,,,,Conference-7,Location-I,,
+Title-F-38,Jason Adair,2003,IEEE,723/904,4/8/2021,,,,,,book-a,Guffy
+Title-A-39,Jason Adair,2018,IEEE,410/1390,2/8/2021,journal-x,8,6,,,,
+Title-B-39,Heidi Brynjolfsdottir,2007,Elsevier,1783/1750,19/6/2021,,,,Conference-8,Location-U,,
+Title-D-39,Kevin Bacon,2014,ACM,1968/1488,12/11/2021,,,,,,book-d,Donald Duck
+Title-G-40,Jason Adair,2019,ACM,1228/1619,20/11/2021,journal-y,7,8,,,,
+Title-G-40,Jason Adair,1999,Springer,1369/896,10/5/2021,,,,Conference-7,Location-I,,
+Title-F-40,Kevin Bacon,2006,Elsevier,1456/1903,9/5/2021,,,,,,book-h,Elsa
+Title-A-41,Heidi Brynjolfsdottir,2015,Springer,892/1103,1/1/2021,journal-z,1,6,,,,
+Title-C-41,Saemi Haraldsson,2016,Elsevier,1976/801,28/3/2021,,,,Conference-7,Location-P,,
+Title-A-41,Heidi Brynjolfsdottir,2004,Elsevier,1679/1955,24/1/2021,,,,,,book-s,Elsa
+Title-C-42,Jason Adair,2001,Elsevier,120/843,23/4/2021,journal-t,8,8,,,,
+Title-H-42,Saemi Haraldsson,2020,IEEE,534/611,14/10/2021,,,,Conference-6,Location-R,,
+Title-A-42,Saemi Haraldsson,2006,Elsevier,1759/98,23/10/2021,,,,,,book-h,Micky Mouse
+Title-E-43,Kevin Bacon,2005,Springer,1218/1769,15/8/2021,journal-t,3,6,,,,
+Title-E-43,Kevin Bacon,2002,IEEE,838/142,26/6/2021,,,,Conference-7,Location-R,,
+Title-B-43,Heidi Brynjolfsdottir,2010,Springer,1053/1616,21/6/2021,,,,,,book-a,Guffy
+Title-F-44,Jason Adair,2008,IEEE,1485/634,26/7/2021,journal-s,5,3,,,,
+Title-C-44,Jason Adair,2000,IEEE,431/1470,1/2/2021,,,,Conference-7,Location-U,,
+Title-H-44,Jason Adair,2010,Springer,1963/437,26/9/2021,,,,,,book-j,Mina Mouse
+Title-A-45,Kevin Bacon,2019,IEEE,163/1536,21/8/2021,journal-t,2,9,,,,
+Title-A-45,Saemi Haraldsson,2003,IEEE,1361/667,20/10/2021,,,,Conference-6,Location-O,,
+Title-F-45,Jason Adair,2017,Springer,473/1747,8/11/2021,,,,,,book-f,Mina Mouse
+Title-F-46,Jason Adair,2018,ACM,1531/837,12/4/2021,journal-p,4,8,,,,
+Title-H-46,Jason Adair,1999,Elsevier,926/155,21/9/2021,,,,Conference-6,Location-P,,
+Title-E-46,Jason Adair,2014,ACM,303/501,18/5/2021,,,,,,book-h,Guffy
+Title-A-47,Jason Adair,2017,ACM,1097/1912,4/4/2021,journal-t,8,8,,,,
+Title-E-47,Kevin Bacon,2020,Springer,222/602,6/9/2021,,,,Conference-1,Location-R,,
+Title-C-47,Kevin Bacon,2014,Elsevier,1878/1418,7/2/2021,,,,,,book-h,Mina Mouse
+Title-G-48,Kevin Bacon,2015,Elsevier,639/1918,25/3/2021,journal-s,1,8,,,,
+Title-G-48,Heidi Brynjolfsdottir,2018,IEEE,1625/1463,8/1/2021,,,,Conference-1,Location-R,,
+Title-E-48,Saemi Haraldsson,1999,Elsevier,1717/746,29/8/2021,,,,,,book-j,Elsa
+Title-G-49,Heidi Brynjolfsdottir,2006,Springer,331/3,22/4/2021,journal-t,3,1,,,,
+Title-E-49,Saemi Haraldsson,2001,IEEE,105/1463,26/5/2021,,,,Conference-6,Location-R,,
+Title-E-49,Heidi Brynjolfsdottir,1999,Springer,1642/797,8/5/2021,,,,,,book-h,Ariel
+Title-E-50,Saemi Haraldsson,2014,IEEE,1319/794,11/3/2021,journal-x,7,2,,,,
+Title-F-50,Kevin Bacon,2019,Elsevier,586/514,14/6/2021,,,,Conference-7,Location-R,,
+Title-D-50,Heidi Brynjolfsdottir,2016,IEEE,516/849,4/8/2021,,,,,,book-g,Guffy
+Title-B-51,Kevin Bacon,2020,Elsevier,1442/1381,24/2/2021,journal-x,5,9,,,,
+Title-A-51,Heidi Brynjolfsdottir,2002,Springer,378/1183,9/2/2021,,,,Conference-6,Location-I,,
+Title-G-51,Jason Adair,2008,Springer,988/1027,7/1/2021,,,,,,book-s,Elsa
+Title-C-52,Kevin Bacon,2010,Springer,1832/1146,28/8/2021,journal-z,7,5,,,,
+Title-C-52,Heidi Brynjolfsdottir,2005,Elsevier,984/1043,4/6/2021,,,,Conference-2,Location-R,,
+Title-C-52,Kevin Bacon,2005,ACM,1880/1715,19/1/2021,,,,,,book-h,Micky Mouse
+Title-D-53,Kevin Bacon,2016,IEEE,872/1260,19/3/2021,journal-x,7,4,,,,
+Title-A-53,Kevin Bacon,2009,Elsevier,1811/1036,12/6/2021,,,,Conference-3,Location-O,,
+Title-F-53,Jason Adair,2007,ACM,1403/371,16/2/2021,,,,,,book-f,Ariel
+Title-C-54,Saemi Haraldsson,2010,Springer,1025/562,9/1/2021,journal-t,5,6,,,,
+Title-F-54,Saemi Haraldsson,2014,Elsevier,1924/49,27/6/2021,,,,Conference-1,Location-P,,
+Title-A-54,Jason Adair,2001,ACM,697/929,9/4/2021,,,,,,book-h,Elsa
+Title-H-55,Kevin Bacon,2006,IEEE,1043/1976,27/10/2021,journal-x,7,6,,,,
+Title-B-55,Jason Adair,2019,Elsevier,611/180,22/8/2021,,,,Conference-7,Location-T,,
+Title-D-55,Saemi Haraldsson,2008,IEEE,1597/1774,3/7/2021,,,,,,book-s,Elsa
+Title-B-56,Heidi Brynjolfsdottir,2007,Springer,1920/730,18/4/2021,journal-s,3,6,,,,
+Title-H-56,Heidi Brynjolfsdottir,2008,Springer,383/412,1/6/2021,,,,Conference-8,Location-I,,
+Title-B-56,Jason Adair,2008,ACM,1810/230,8/3/2021,,,,,,book-l,Guffy
+Title-A-57,Kevin Bacon,2006,Springer,442/1481,26/4/2021,journal-t,3,5,,,,
+Title-H-57,Saemi Haraldsson,2014,Springer,1962/454,1/11/2021,,,,Conference-8,Location-I,,
+Title-C-57,Jason Adair,2007,Elsevier,284/632,24/2/2021,,,,,,book-a,Mina Mouse
+Title-F-58,Heidi Brynjolfsdottir,1999,ACM,605/1231,23/9/2021,journal-s,8,9,,,,
+Title-D-58,Jason Adair,2012,Elsevier,920/1804,27/1/2021,,,,Conference-7,Location-P,,
+Title-F-58,Saemi Haraldsson,2002,ACM,1438/1638,6/8/2021,,,,,,book-j,Ariel
+Title-H-59,Jason Adair,2000,IEEE,1170/1017,28/8/2021,journal-p,3,2,,,,
+Title-D-59,Kevin Bacon,2019,Springer,1637/564,27/10/2021,,,,Conference-1,Location-O,,
+Title-G-59,Jason Adair,2013,ACM,311/1008,9/5/2021,,,,,,book-s,Mina Mouse
+Title-G-60,Kevin Bacon,2001,IEEE,704/457,2/11/2021,journal-t,8,9,,,,
+Title-E-60,Heidi Brynjolfsdottir,2013,Springer,1894/1524,4/6/2021,,,,Conference-5,Location-I,,
+Title-F-60,Jason Adair,2009,IEEE,814/723,29/8/2021,,,,,,book-j,Guffy
+Title-G-61,Heidi Brynjolfsdottir,2016,ACM,495/1076,22/3/2021,journal-t,4,5,,,,
+Title-B-61,Saemi Haraldsson,2000,Springer,1804/1168,12/3/2021,,,,Conference-1,Location-O,,
+Title-F-61,Saemi Haraldsson,2008,ACM,1407/1775,11/6/2021,,,,,,book-s,Micky Mouse
+Title-H-62,Kevin Bacon,2001,ACM,1092/72,28/4/2021,journal-z,4,6,,,,
+Title-A-62,Jason Adair,2017,Elsevier,834/554,26/11/2021,,,,Conference-6,Location-R,,
+Title-E-62,Jason Adair,2007,IEEE,1142/1000,26/6/2021,,,,,,book-g,Guffy
+Title-D-63,Saemi Haraldsson,2020,Elsevier,1178/1384,28/9/2021,journal-x,8,9,,,,
+Title-C-63,Jason Adair,2015,,1491/665,11/2/2021,,,,Conference-6,Location-T,,
+Title-H-63,Saemi Haraldsson,2005,ACM,1942/1436,25/6/2021,,,,,,book-s,Guffy
+Title-D-64,Jason Adair,2000,Elsevier,821/245,26/2/2021,journal-s,3,1,,,,
+Title-H-64,Kevin Bacon,2000,IEEE,1234/1692,22/6/2021,,,,Conference-5,Location-Y,,
+Title-A-64,Jason Adair,2003,Elsevier,869/1661,17/2/2021,,,,,,book-g,Guffy
+Title-G-65,Kevin Bacon,2004,ACM,1651/1797,15/1/2021,journal-p,6,8,,,,
+Title-C-65,Jason Adair,2007,Elsevier,84/1550,19/3/2021,,,,Conference-8,Location-P,,
+Title-F-65,Jason Adair,2009,Springer,1067/1119,16/1/2021,,,,,,book-l,Donald Duck
+Title-A-66,Kevin Bacon,2001,IEEE,568/1452,21/5/2021,journal-q,8,9,,,,
+Title-G-66,Kevin Bacon,2020,Elsevier,1115/448,11/10/2021,,,,Conference-7,Location-P,,
+Title-F-66,Saemi Haraldsson,2015,Springer,1015/900,21/7/2021,,,,,,book-g,Guffy
+Title-G-67,Saemi Haraldsson,2010,ACM,602/1845,22/4/2021,journal-q,6,5,,,,
+Title-E-67,Kevin Bacon,2016,Springer,1199/825,19/1/2021,,,,Conference-3,Location-O,,
+Title-H-67,Saemi Haraldsson,2000,Elsevier,486/167,10/6/2021,,,,,,book-f,Mina Mouse
+Title-D-68,Kevin Bacon,2012,Springer,1919/1079,12/9/2021,journal-p,8,2,,,,
+Title-D-68,Saemi Haraldsson,2003,IEEE,1791/1990,22/1/2021,,,,Conference-8,Location-I,,
+Title-G-68,Heidi Brynjolfsdottir,2019,Elsevier,424/965,4/3/2021,,,,,,book-k,Elsa
+Title-F-69,Kevin Bacon,2018,Elsevier,305/1658,15/5/2021,journal-z,4,7,,,,
+Title-H-69,Jason Adair,2015,Elsevier,1809/1975,21/1/2021,,,,Conference-7,Location-I,,
+Title-A-69,Heidi Brynjolfsdottir,2016,ACM,1823/1224,13/10/2021,,,,,,book-f,Elsa
+Title-B-70,Heidi Brynjolfsdottir,2016,Elsevier,1411/894,13/8/2021,journal-p,8,2,,,,
+Title-H-70,Kevin Bacon,2015,IEEE,728/1019,20/1/2021,,,,Conference-5,Location-Y,,
+Title-H-70,Saemi Haraldsson,2008,IEEE,1441/313,29/2/2021,,,,,,book-g,Elsa
+Title-A-71,Heidi Brynjolfsdottir,2005,IEEE,1862/1457,24/6/2021,journal-s,8,9,,,,
+Title-B-71,Jason Adair,2009,IEEE,905/905,19/6/2021,,,,Conference-6,Location-I,,
+Title-F-71,Heidi Brynjolfsdottir,2013,Springer,1894/1573,22/8/2021,,,,,,book-f,Donald Duck
+Title-C-72,Jason Adair,2003,IEEE,143/1861,4/5/2021,journal-p,8,3,,,,
+Title-H-72,Heidi Brynjolfsdottir,2017,IEEE,266/1642,2/1/2021,,,,Conference-5,Location-R,,
+Title-C-72,Jason Adair,2004,Springer,1938/1761,7/3/2021,,,,,,book-j,Elsa
+Title-H-73,Saemi Haraldsson,2018,Springer,1755/542,15/1/2021,journal-y,9,1,,,,
+Title-E-73,Saemi Haraldsson,2019,IEEE,1521/857,10/9/2021,,,,Conference-1,Location-U,,
+Title-E-73,Kevin Bacon,2005,IEEE,889/829,18/5/2021,,,,,,book-k,
+Title-C-74,Jason Adair,2009,ACM,251/781,28/10/2021,journal-q,6,3,,,,
+Title-H-74,Saemi Haraldsson,2006,Springer,905/994,14/8/2021,,,,Conference-7,Location-I,,
+Title-A-74,Jason Adair,2013,ACM,1263/1217,23/2/2021,,,,,,book-f,Elsa
+Title-B-75,Heidi Brynjolfsdottir,2019,IEEE,1954/1902,29/7/2021,journal-t,5,2,,,,
+Title-H-75,Saemi Haraldsson,2020,Elsevier,588/1689,1/4/2021,,,,Conference-7,Location-U,,
+Title-D-75,Heidi Brynjolfsdottir,2005,Springer,873/501,19/8/2021,,,,,,book-g,Donald Duck
+Title-D-76,Kevin Bacon,2020,Springer,1927/1140,28/2/2021,journal-p,7,4,,,,
+Title-H-76,Heidi Brynjolfsdottir,1999,ACM,796/718,21/8/2021,,,,Conference-3,Location-Y,,
+Title-E-76,Kevin Bacon,2017,IEEE,197/1583,29/8/2021,,,,,,book-j,Guffy
+Title-D-77,Heidi Brynjolfsdottir,2007,Elsevier,1375/420,13/4/2021,journal-p,2,5,,,,
+Title-F-77,Heidi Brynjolfsdottir,2002,IEEE,1768/1709,20/10/2021,,,,Conference-4,Location-Y,,
+Title-C-77,Jason Adair,2006,IEEE,883/1239,1/3/2021,,,,,,book-j,Guffy
+Title-C-78,Jason Adair,2007,ACM,1611/707,28/6/2021,journal-z,7,4,,,,
+Title-H-78,Kevin Bacon,2002,ACM,434/1456,21/6/2021,,,,Conference-7,Location-R,,
+Title-A-78,Kevin Bacon,2004,IEEE,1159/527,23/8/2021,,,,,,book-j,Elsa
+Title-G-79,Kevin Bacon,2012,Springer,1539/1238,7/10/2021,journal-x,7,7,,,,
+Title-H-79,Jason Adair,2018,Springer,739/494,15/7/2021,,,,Conference-7,Location-O,,
+Title-B-79,Jason Adair,2017,Springer,1336/1136,2/10/2021,,,,,,book-k,Elsa
+Title-B-80,Jason Adair,1999,Elsevier,585/1782,15/4/2021,journal-y,8,7,,,,
+Title-C-80,Jason Adair,2019,IEEE,164/1051,19/4/2021,,,,Conference-8,Location-O,,
+Title-F-80,Saemi Haraldsson,2010,Elsevier,1248/221,13/4/2021,,,,,,book-d,Mina Mouse
+Title-E-81,Kevin Bacon,2006,Springer,1168/551,18/7/2021,journal-t,5,3,,,,
+Title-A-81,Kevin Bacon,2018,ACM,1176/406,3/3/2021,,,,Conference-6,Location-O,,
+Title-G-81,Kevin Bacon,2013,Elsevier,538/1521,27/8/2021,,,,,,book-h,Elsa
+Title-D-82,Kevin Bacon,2011,ACM,1696/593,27/7/2021,journal-t,9,7,,,,
+Title-B-82,Saemi Haraldsson,2017,Elsevier,1088/1771,14/7/2021,,,,Conference-4,Location-I,,
+Title-A-82,Saemi Haraldsson,2010,ACM,1949/113,22/11/2021,,,,,,book-l,Ariel
+Title-C-83,Kevin Bacon,2000,ACM,1389/441,17/11/2021,journal-y,1,8,,,,
+Title-F-83,Saemi Haraldsson,2002,IEEE,1872/390,11/2/2021,,,,Conference-3,Location-P,,
+Title-G-83,Jason Adair,2008,IEEE,416/485,6/3/2021,,,,,,book-l,Ariel
+Title-E-84,Saemi Haraldsson,2016,Elsevier,385/1099,9/7/2021,journal-z,4,7,,,,
+Title-G-84,Saemi Haraldsson,2019,Elsevier,1819/292,17/9/2021,,,,Conference-4,Location-U,,
+Title-A-84,Jason Adair,2000,IEEE,1413/1824,11/3/2021,,,,,,book-h,Mina Mouse
+Title-D-85,Saemi Haraldsson,2012,IEEE,1982/763,20/2/2021,journal-p,6,3,,,,
+Title-G-85,Saemi Haraldsson,2011,Springer,811/875,1/2/2021,,,,Conference-3,Location-R,,
+Title-C-85,Saemi Haraldsson,2007,Elsevier,113/37,23/2/2021,,,,,,book-s,Elsa
+Title-A-86,Jason Adair,1999,ACM,1850/88,14/9/2021,journal-t,1,6,,,,
+Title-B-86,Jason Adair,2014,IEEE,1215/415,19/2/2021,,,,Conference-6,Location-U,,
+Title-A-86,Heidi Brynjolfsdottir,1999,ACM,605/1963,6/5/2021,,,,,,book-j,Micky Mouse
+Title-A-87,Saemi Haraldsson,2005,Elsevier,595/676,17/3/2021,journal-q,6,6,,,,
+Title-A-87,Jason Adair,2014,ACM,1421/922,2/10/2021,,,,Conference-8,Location-R,,
+Title-F-87,Kevin Bacon,2001,IEEE,649/586,22/6/2021,,,,,,book-s,Ariel
+Title-D-88,Heidi Brynjolfsdottir,2004,ACM,291/1750,16/4/2021,journal-p,4,3,,,,
+Title-G-88,Jason Adair,2019,ACM,1018/510,16/10/2021,,,,Conference-7,Location-T,,
+Title-G-88,Jason Adair,2000,Elsevier,229/1461,19/11/2021,,,,,,book-k,Donald Duck
+Title-F-89,Kevin Bacon,2003,IEEE,166/1052,8/3/2021,journal-q,4,8,,,,
+Title-F-89,Saemi Haraldsson,2006,IEEE,462/647,28/9/2021,,,,Conference-7,Location-O,,
+Title-D-89,Heidi Brynjolfsdottir,2006,Elsevier,1549/631,14/10/2021,,,,,,book-l,Mina Mouse
+Title-E-90,Saemi Haraldsson,2018,Elsevier,1704/29,26/11/2021,journal-t,9,1,,,,
+Title-E-90,Saemi Haraldsson,2020,Springer,1968/996,27/2/2021,,,,Conference-4,Location-R,,
+Title-H-90,Kevin Bacon,2016,Springer,554/1524,19/10/2021,,,,,,book-l,Elsa
+Title-E-91,Kevin Bacon,1999,ACM,1379/152,27/11/2021,journal-y,8,8,,,,
+Title-B-91,Heidi Brynjolfsdottir,2011,Elsevier,683/392,14/3/2021,,,,Conference-1,Location-U,,
+Title-H-91,Jason Adair,2003,ACM,782/63,12/4/2021,,,,,,book-h,Guffy
+Title-F-92,Jason Adair,2003,Springer,456/1076,12/2/2021,journal-z,9,3,,,,
+Title-A-92,Jason Adair,2006,ACM,1540/1164,1/10/2021,,,,Conference-1,Location-U,,
+Title-B-92,Saemi Haraldsson,2010,Springer,547/561,12/6/2021,,,,,,book-h,Micky Mouse
+Title-H-93,Heidi Brynjolfsdottir,2018,Springer,117/659,14/1/2021,journal-q,2,1,,,,
+Title-E-93,Jason Adair,2016,IEEE,1111/1710,23/5/2021,,,,Conference-2,Location-T,,
+Title-D-93,Kevin Bacon,2002,Elsevier,593/1504,14/6/2021,,,,,,book-l,Mina Mouse
+Title-H-94,Jason Adair,2002,Springer,1545/1287,15/6/2021,journal-y,4,3,,,,
+Title-A-94,Kevin Bacon,2016,ACM,271/86,,,,,Conference-3,Location-P,,
+Title-B-94,Heidi Brynjolfsdottir,2013,IEEE,1285/1098,10/4/2021,,,,,,book-h,Donald Duck
+Title-H-95,Kevin Bacon,2006,Springer,1580/838,15/2/2021,journal-s,3,2,,,,
+Title-G-95,Kevin Bacon,2020,Springer,240/1348,22/3/2021,,,,Conference-6,Location-I,,
+Title-A-95,Saemi Haraldsson,2017,IEEE,1011/141,3/7/2021,,,,,,book-f,Guffy
+Title-B-96,Saemi Haraldsson,2010,ACM,1241/866,17/7/2021,journal-z,4,9,,,,
+Title-G-96,Saemi Haraldsson,2013,Springer,1223/505,16/7/2021,,,,Conference-5,Location-Y,,
+Title-B-96,Kevin Bacon,1999,Elsevier,1083/615,28/10/2021,,,,,,book-k,Micky Mouse
+Title-D-97,Saemi Haraldsson,2020,Elsevier,1456/888,24/4/2021,journal-q,5,6,,,,
+Title-D-97,Saemi Haraldsson,2017,ACM,118/1472,1/6/2021,,,,Conference-5,Location-P,,
+Title-F-97,Kevin Bacon,2000,IEEE,12/1513,7/7/2021,,,,,,book-d,Guffy
+Title-D-98,Jason Adair,2006,ACM,,13/6/2021,journal-t,9,8,,,,
+Title-A-98,Kevin Bacon,2000,Springer,935/1309,26/7/2021,,,,Conference-4,Location-T,,
+Title-G-98,Jason Adair,2005,Elsevier,1841/786,4/1/2021,,,,,,book-h,Mina Mouse
+Title-G-99,Kevin Bacon,2018,,613/453,8/6/2021,journal-p,4,3,,,,
+Title-D-99,Heidi Brynjolfsdottir,2003,Elsevier,1839/1726,6/8/2021,,,,Conference-2,Location-P,,
+Title-H-99,Jason Adair,2005,Elsevier,1795/606,29/10/2021,,,,,,book-g,Ariel
